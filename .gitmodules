@@ -1,0 +1,6 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "content"]
+	path = content
+	url = https://github.com/easonhan007/golang_blog_backend.git
